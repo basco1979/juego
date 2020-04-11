@@ -1,0 +1,382 @@
+[
+    [
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 8,
+                "y": 0,
+                "map": "home"
+            }
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        }
+    ],
+    [
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 8,
+                "y": 1,
+                "map": "home"
+            }
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        }
+    ],
+    [
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 8,
+                "y": 2,
+                "map": "home"
+            }
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        }
+    ],
+    [
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 8,
+                "y": 3,
+                "map": "home"
+            }
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        }
+    ],
+    [
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 8,
+                "y": 4,
+                "map": "home"
+            }
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        }
+    ],
+    [
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 8,
+                "y": 5,
+                "map": "home"
+            }
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        }
+    ],
+    [
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 8,
+                "y": 6,
+                "map": "home"
+            }
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        }
+    ],
+    [
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 8,
+                "y": 7,
+                "map": "home"
+            }
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        }
+    ],
+    [
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        }
+    ],
+    [
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        }
+    ]
+]

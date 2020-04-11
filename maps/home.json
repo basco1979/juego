@@ -1,0 +1,389 @@
+[
+    [
+        {
+            "background": "grass",
+            "animation": "torch"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass",
+            "animation": "torch",
+            "tileExit": {
+                "x": 1,
+                "y": 0,
+                "map": "forest"
+            }
+        }
+    ],
+    [
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass",
+            "foreground": "poster"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 1,
+                "y": 1,
+                "map": "forest"
+            }
+        }
+    ],
+    [
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass",
+            "text": "Capítulo 3"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 1,
+                "y": 2,
+                "map": "forest"
+            }
+        }
+    ],
+    [
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 1,
+                "y": 3,
+                "map": "forest"
+            }
+        }
+    ],
+    [
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 1,
+                "y": 4,
+                "map": "forest"
+            }
+        }
+    ],
+    [
+        {
+            "background": "grass",
+            "animation": "torch"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass",
+            "foreground": "tree"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass",
+            "animation": "torch",
+            "tileExit": {
+                "x": 1,
+                "y": 5,
+                "map": "forest"
+            }
+        }
+    ],
+    [
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 1,
+                "y": 6,
+                "map": "forest"
+            }
+        }
+    ],
+    [
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass"
+        },
+        {
+            "background": "grass",
+            "tileExit": {
+                "x": 1,
+                "y": 7,
+                "map": "forest"
+            }
+        }
+    ],
+    [
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        }
+    ],
+    [
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        },
+        {
+            "background": "water",
+            "blocked": true
+        }
+    ]
+]
